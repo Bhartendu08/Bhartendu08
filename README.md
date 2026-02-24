@@ -1,16 +1,17 @@
-<h1 align="center">Hey 👋I'm Bhartendu</h1>
+<h1 align="center">Hi 👋, I'm Bhartendu</h1>
+<h3 align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle.</h3>
 
-###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ4eGk0aGFwZmNzYmEycjg5ZXlnOGl5am12ejgxb2w1YjRhZTVlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif"  />
-</div>
+- 🌱 I’m currently learning **Advanced Kubernetes orchestration, Terraform for multi-region deployments**
 
-###
+- 👯 I’m looking to collaborate on **Open-source DevOps tooling, infrastructure automation scripts, or cloud-native migration projects.**
 
-<p align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle.<br><br>    🌱 I’m currently learning: Advanced Kubernetes orchestration, Terraform for multi-region deployments, and Prometheus/Grafana for monitoring.<br><br>    👯 I’m looking to collaborate on: Open-source DevOps tooling, infrastructure automation scripts, or cloud-native migration projects.<br><br>    💬 Ask me about: AWS (EC2, S3, RDS), containerizing applications with Docker, or setting up automated pipelines with Jenkins and GitHub Actions.</p>
+- 💬 Ask me about **AWS and DevOps Tools**
 
-###
+- 📫 How to reach me **bhartendukr04@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
