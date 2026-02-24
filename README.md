@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle. I thrive at the intersection of development and operations, ensuring that cloud environments are not just functional, but optimized for high availability, security, and performance.<br><br>    🌱 I’m currently learning: Advanced Kubernetes orchestration, Terraform for multi-region deployments, and Prometheus/Grafana for monitoring.<br><br>    👯 I’m looking to collaborate on: Open-source DevOps tooling, infrastructure automation scripts, or cloud-native migration projects.<br><br>    💬 Ask me about: AWS (EC2, S3, RDS), containerizing applications with Docker, or setting up automated pipelines with Jenkins and GitHub Actions.</p>
+<p align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle.<br><br>    🌱 I’m currently learning: Advanced Kubernetes orchestration, Terraform for multi-region deployments, and Prometheus/Grafana for monitoring.<br><br>    👯 I’m looking to collaborate on: Open-source DevOps tooling, infrastructure automation scripts, or cloud-native migration projects.<br><br>    💬 Ask me about: AWS (EC2, S3, RDS), containerizing applications with Docker, or setting up automated pipelines with Jenkins and GitHub Actions.</p>
 
 ###
 
@@ -59,6 +59,13 @@
 <div align="center">
 </div>
 
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 ###
 
 <picture>
