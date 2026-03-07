@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhartendu</h1>
+<h1 align="left">Hi 👋, I'm Bhartendu</h1>
 <h3 align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle.</h3>
 
 
