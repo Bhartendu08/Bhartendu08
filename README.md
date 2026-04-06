@@ -2,7 +2,7 @@
 <h3 align="left">I am an aspiring AWS DevOps Engineer passionate about building scalable cloud infrastructure and automating the software delivery lifecycle.</h3>
 
 
-- 🌱 I’m currently learning **Advanced Kubernetes orchestration, Terraform for multi-region deployments**
+- 🌱 I’m currently learning **Advanced Kubernetes orchestration, Terraform for multi-region deployments, Self Healing Pipelines**
 
 - 👯 I’m looking to collaborate on **Open-source DevOps tooling, infrastructure automation scripts, or cloud-native migration projects.**
 
